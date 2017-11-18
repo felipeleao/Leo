@@ -3,7 +3,7 @@
 **Leo** is an acronym for **Le**arning **O**ntologies System, a tool aiming at automatically generating well-founded ontologies described in OntoUML, through Natural Language Processing Techniques. The system uses multiple natural language processing tools, such as:
  * StanforNLP;
  * OpenNLP;
- * LTH Semantic Mapper ([link](http://nlp.cs.lth.se/software/semantic_parsing%3A_propbank_nombank_frames/));
+ * LTH Semantic Mapper ([link](http://nlp.cs.lth.se/software/semantic-parsing-propbank-nombank-frames/));
  * WordNet ([link](https://wordnet.princeton.edu/));
  * WordNet::SenseRelate ([link](http://www.d.umn.edu/~tpederse/senserelate.html)).
 
